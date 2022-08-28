@@ -1,9 +1,12 @@
-//====================================
-// Title: team.js
-// Author:  John Vanhessche
-// Date:  26 August 2022
-// Description:  team.js module for sports-app
-//=====================================
+/* 
+ * ====================================
+ * Title: team.js
+ * Author:  John Vanhessche
+ * DAte: 26 August 2022
+ * Description:  team.js module for sports-app 
+ * ====================================
+ */
+
 
 
 

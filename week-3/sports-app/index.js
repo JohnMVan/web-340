@@ -13,13 +13,13 @@ const x = require('./team-manager');
 console.log("-- DISPLAYING TEAMS --");
 
 //calling function to loop through and print a listing of the array
-console.log(x.findTeams());
+x.findTeams();
 
 //header for championship game.
 console.log("-- CHAMPIONSHIP GAME --");
 
 //calling function to select two random teams, and print formatted output.
-console.log(x.getGame());
+x.getGame();
 
 
 
